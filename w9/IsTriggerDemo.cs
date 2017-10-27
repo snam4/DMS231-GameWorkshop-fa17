@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class unityAnimation : MonoBehaviour {
+public class IsTriggerDemo : MonoBehaviour {
 
 	//OnTriggerEnter  : OnTriggerStay : OnTriggerExit
 	void OnTriggerEnter(Collider other){
